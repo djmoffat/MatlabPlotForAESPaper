@@ -26,7 +26,7 @@ When using this code, please reference the following paper
 	Author = {Bromham, Gary and Moffat, David and Fazekas, Gy{\"o}rgy and Barthet, Mathieu},
 	Booktitle = {Audio Engineering Society Convention 145},
 	Month = {October},
-  Address = {New York, USA},
+  	Address = {New York, USA},
 	Year = {2018}}
 
 ```
